@@ -4,7 +4,7 @@
   "description": "Meric 'JI' About",
   "main": "meric.js",
   "bin": {
-    "berk": "meric.js"
+    "meric": "meric.js"
   },
   "repository": {
     "type": "git",
