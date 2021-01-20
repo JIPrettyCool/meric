@@ -25,7 +25,7 @@ function openSocialSelector() {
         { name: chalk.bold.hex('#888888')(`💻  GitHub`), value: 'https://github.com/jiprettycool' },
         { name: chalk.bold.hex('#1DA1F2')(`🐦  Twitter`), value: 'https://twitter.com/iamrealji' },
         { name: chalk.bold.hex('#25D366')(`💬  Discord`), value: 'https://discord.gg/ZQSHn9b' },
-        { name: chalk.bold.hex('#D7CBFD')(`💼  Portfolio`), value: 'https://hiven.house/fJqIoO' },
+        { name: chalk.bold.hex('#D7CBFD')(`🏠  Hiven`), value: 'https://hiven.house/fJqIoO' },
         { name: chalk.bold.hex('#f04a45')('👋  Nope. Bye.'), value: false }
       ]
     }
