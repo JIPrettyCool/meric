@@ -1,6 +1,6 @@
 {
   "name": "meric",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Meric 'JI' About",
   "main": "meric.js",
   "bin": {
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/JIPrettyCool/meric#readme",
   "dependencies": {
     "chalk": "^4.1.0",
+    "get-npm-auth-token": "^1.0.3",
     "got": "^11.5.0",
     "inquirer": "^7.3.0",
     "open": "6.0.0",
